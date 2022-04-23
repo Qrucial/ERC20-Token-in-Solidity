@@ -1,2 +1,2 @@
 # Voronoi-Token
-Voronoi ERC20 based token for Moonbeam network.
+Voronoi testnet ERC20 based token, written in Solidity.
