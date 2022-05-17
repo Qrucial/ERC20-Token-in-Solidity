@@ -1,2 +1,2 @@
-# Voronoi-Token
-Voronoi testnet ERC20 based token, written in Solidity.
+# ERC20 Token
+ERC20 smart contract, written in Solidity.
